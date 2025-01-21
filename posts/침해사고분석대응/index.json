@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "name": "MALWARE",
+            "posts": [
+                {
+                    "title": "SIEM(Wazuh)",
+                    "filename": "siem.md"
+                },
+                {
+                    "title": "Memory Dump",
+                    "filename": "memory-dump.md"
+                },
+                {
+                    "title": "침해사고분석",
+                    "filename": "incident-analysis.md"
+                },
+                {
+                    "title": "FLARE",
+                    "filename": "flare.md"
+                }
+            ],
+            "subcategories": [
+                {
+                    "name": "Practice Malware",
+                    "sub-posts": [
+                        {
+                            "title": "Chapter 3L",
+                            "filename": "chapter3l.md"
+                        },
+                        {
+                            "title": "Chapter 5L",
+                            "filename": "chapter5l.md"
+                        },
+                        {
+                            "title": "Chapter 6L",
+                            "filename": "chapter6l.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "categories": [
+        {
+            "name": "CLOUD",
+            "posts": [
+                {
+                    "title": "DevSecOps",
+                    "filename": "devsecops.md"
+                }
+            ],
+            "subcategories": [
+                {
+                    "name": "AWS",
+                    "sub-posts": [
+                        {
+                            "title": "AWS",
+                            "filename": "aws.md"
+                        },
+                        {
+                            "title": "ACL",
+                            "filename": "acl.md"
+                        },
+                        {
+                            "title": "IAM",
+                            "filename": "iam.md"
+                        },
+                        {
+                            "title": "EC2",
+                            "filename": "ec2.md"
+                        },
+                        {
+                            "title": "VPC",
+                            "filename": "vpc.md"
+                        }
+                    ]
+                },
+                {
+                    "name": "Docker",
+                    "sub-posts": [
+                        {
+                            "title": "Docker",
+                            "filename": "docker.md"
+                        },
+                        {
+                            "title": "Docker Setting",
+                            "filename": "docker-setting.md"
+                        },
+                        {
+                            "title": "Docker Command",
+                            "filename": "docker-command.md"
+                        },
+                        {
+                            "title": "Dockerfile",
+                            "filename": "dockerfile.md"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kubernetes",
+                    "sub-posts": [
+                        {
+                            "title": "Kubernetes",
+                            "filename": "kubernetes.md"
+                        },
+                        {
+                            "title": "k8s Dashboard",
+                            "filename": "k8s-dashboard.md"
+                        },
+                        {
+                            "title": "k8s Practice",
+                            "filename": "k8s-practice.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

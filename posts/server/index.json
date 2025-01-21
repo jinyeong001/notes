@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "name": "SERVER",
+            "subcategories": [
+                {
+                    "name": "Server Build",
+                    "sub-posts": [
+                        {
+                            "title": "DNS Server",
+                            "filename": "dns.md"
+                        },
+                        {
+                            "title": "FTP Server",
+                            "filename": "ftp.md"
+                        },
+                        {
+                            "title": "HTTP Server",
+                            "filename": "http.md"
+                        },
+                        {
+                            "title": "HTTPS Server",
+                            "filename": "https.md"
+                        },
+                        {
+                            "title": "Log Server",
+                            "filename": "log.md"
+                        },
+                        {
+                            "title": "NFS Server",
+                            "filename": "nfs.md"
+                        },
+                        {
+                            "title": "SAMBA Server",
+                            "filename": "samba.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

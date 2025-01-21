@@ -23,14 +23,14 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // 카테고리별 이모지 매핑
     const categoryEmojis = {
-        'APPLICATION': '💻',
+        'APPLICATION': '🔐',
+        'CLOUD': '☁️',
+        'DATABASE': '💾',
         'HACKING': '🔓',
-        'DASHBOARD': '📊',
-        'DEVOPS': '⚙️',
-        'IDS': '🛡️',
-        'MALWARE': '🦠',
+        '침해사고분석대응': '🚨',
         'NETWORK': '🌐',
-        'SQL': '💾'
+        'SERVER': '🏗️',
+        'SYSTEM': '⚙️'
     };
 
     // 카테고리별 포스트 로드 함수
@@ -162,7 +162,16 @@ document.addEventListener('DOMContentLoaded', async function() {
     // createPostList 함수 수정
     async function createPostList() {
         const postList = document.getElementById('post-items');
-        const categories = ['APPLICATION', 'HACKING', 'DASHBOARD', 'DEVOPS', 'IDS', 'MALWARE', 'NETWORK', 'SQL'];
+        const categories = [
+            'APPLICATION',
+            'CLOUD',
+            'DATABASE',
+            'HACKING',
+            '침해사고분석대응',
+            'NETWORK',
+            'SERVER',
+            'SYSTEM'
+        ];
         
         for (const category of categories) {
             try {
@@ -300,7 +309,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         if (!postTitle) return;
 
         // 모든 카테고리를 순회하며 해당 포스트 찾기
-        const categories = ['APPLICATION', 'HACKING', 'DASHBOARD', 'DEVOPS', 'IDS', 'MALWARE', 'NETWORK', 'SQL'];
+        const categories = ['APPLICATION', 'CLOUD', 'DATABASE', 'HACKING', '침해사고분석대응', 'NETWORK', 'SERVER', 'SYSTEM'];
         
         for (const category of categories) {
             try {

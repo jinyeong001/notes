@@ -4,12 +4,20 @@
             "name": "APPLICATION",
             "posts": [
                 {
-                    "title": "APM",
-                    "filename": "apm.md"
+                    "title": "HTTP Methods",
+                    "filename": "http-methods.md"
                 },
                 {
-                    "title": "Wordpress",
-                    "filename": "wordpress.md"
+                    "title": "HTTP Status Codes",
+                    "filename": "http-status-codes.md"
+                },
+                {
+                    "title": "SET(Phising)",
+                    "filename": "set-phising.md"
+                },
+                {
+                    "title": "WAF",
+                    "filename": "waf.md"
                 }
             ]
         }

@@ -11,15 +11,12 @@
                             "filename": "ctf.md"
                         }
                     ]
-                },
+                }
+            ],
+            "posts": [
                 {
-                    "name": "KALI",
-                    "sub-posts": [
-                        {
-                            "title": "Kali Linux",
-                            "filename": "kali.md"
-                        }
-                    ]
+                    "title": "Memo",
+                    "filename": "memo.md"
                 }
             ]
         }

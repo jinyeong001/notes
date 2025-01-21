@@ -4,21 +4,83 @@
             "name": "NETWORK",
             "posts": [
                 {
-                    "title": "WireShark",
-                    "filename": "wireshark.md"
+                    "title": "Network Memo",
+                    "filename": "network-memo.md"
+                },
+                {
+                    "title": "Cisco Packet Tracer",
+                    "filename": "cisco.md"
                 }
             ],
             "subcategories": [
                 {
-                    "name": "Cisco Packet Tracer",
+                    "name": "Router",
                     "sub-posts": [
                         {
-                            "title": "Cisco Packet Tracer",
-                            "filename": "Cisco.md"
+                            "title": "ACL",
+                            "filename": "acl.md"
                         },
                         {
-                            "title": "Routing",
-                            "filename": "routing.md"
+                            "title": "DHCP",
+                            "filename": "dhcp.md"
+                        },
+                        {
+                            "title": "DHCP",
+                            "filename": "dhcp.md"
+                        },
+                        {
+                            "title": "HSRP",
+                            "filename": "hsrp.md"
+                        },
+                        {
+                            "title": "NAT/PAT",
+                            "filename": "nat-pat.md"
+                        },
+                        {
+                            "title": "Router Command",
+                            "filename": "router-command.md"
+                        }
+                    ]
+                },            
+                {
+                    "name": "Switch",
+                    "sub-posts": [
+                        {
+                            "title": "VLAN",
+                            "filename": "vlan.md"
+                        },
+                        {
+                            "title": "VTP/STP",
+                            "filename": "vtp-stp.md"
+                        },
+                        {
+                            "title": "Switch Command",
+                            "filename": "switch-command.md"
+                        }
+                    ]
+                },
+                {
+                    "name": "GNS3",
+                    "sub-posts": [
+                        {
+                            "title": "GNS3",
+                            "filename": "gns3.md"
+                        },
+                        {
+                            "title": "ASAv",
+                            "filename": "asav.md"
+                        },
+                        {
+                            "title": "pfSense",
+                            "filename": "pfsense.md"
+                        },
+                        {
+                            "title": "Racl/Dacl",
+                            "filename": "racl-dacl.md"
+                        },
+                        {
+                            "title": "ZFW",
+                            "filename": "zfw.md"
                         }
                     ]
                 }

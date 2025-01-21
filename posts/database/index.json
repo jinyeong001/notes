@@ -1,0 +1,21 @@
+{
+    "categories": [
+        {
+            "name": "DATABASE",
+            "posts": [
+                {
+                    "title": "DB Language",
+                    "filename": "db-language.md"
+                },
+                {
+                    "title": "DB Note",
+                    "filename": "db-note.md"
+                },
+                {
+                    "title": "PMM",
+                    "filename": "pmm.md"
+                }
+            ]
+        }
+    ]
+}
