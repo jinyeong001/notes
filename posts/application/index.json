@@ -4,8 +4,8 @@
             "name": "APPLICATION",
             "posts": [
                 {
-                    "title": "HTTP Methods",
-                    "filename": "http-methods.md"
+                    "title": "HTTP Method",
+                    "filename": "http-method.md"
                 },
                 {
                     "title": "HTTP Status Codes",
@@ -13,7 +13,7 @@
                 },
                 {
                     "title": "SET(Phising)",
-                    "filename": "set-phising.md"
+                    "filename": "set.md"
                 },
                 {
                     "title": "WAF",
