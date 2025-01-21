@@ -1,6 +1,7 @@
 # DevSecOps
 ---
 
+## CI/CD란?
 DevOps(CI/CD) + Security<br>
 CI(Continuous Intergration): 빌드, 테스트<br>
 CD(Continuous Deployment): 배포<br><br>
