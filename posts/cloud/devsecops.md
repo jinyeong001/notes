@@ -15,7 +15,7 @@ CI/CD PipeLine: 빌드, 테스트, 배포를 하나로 묶음<br>
 6. 배포: Jenkins, Gitlab CI, Spinmaker, Kubernetis ...<br>
 7. 모니터링/로깅: Prometheus, Grafana, ELK Stack ...<br><br>
 
-![DevSecOps Pipeline](./img/devsecops.png)<br><br>
+![DevSecOps Pipeline](notes/posts/cloud/img/devsecops.png)<br><br>
 
 **Plan** - 보안 요구사항과 위협 모델리을 통해 초기 계획단계에서 보안 고려<br>
 **Build** - 코드가 안전하게 작성되고 저장되도록 보안 검증 수행<br>
