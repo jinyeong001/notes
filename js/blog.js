@@ -23,13 +23,13 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // 카테고리별 이모지 매핑
     const categoryEmojis = {
-        'APPLICATION': '🔐',
+        'APPLICATION': '💻',
         'CLOUD': '☁️',
         'DATABASE': '💾',
         'CTF': '🔥',
         '침해사고분석대응': '🚨',
         'NETWORK': '🌐',
-        'SERVER': '🏗️',
+        'SERVER': '🗄️',
         'SYSTEM': '⚙️'
     };
 
