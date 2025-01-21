@@ -1,0 +1,27 @@
+{
+    "categories": [
+        {
+            "name": "HACKING",
+            "subcategories": [
+                {
+                    "name": "CTF",
+                    "sub-posts": [
+                        {
+                            "title": "CTF 1",
+                            "filename": "ctf.md"
+                        }
+                    ]
+                },
+                {
+                    "name": "KALI",
+                    "sub-posts": [
+                        {
+                            "title": "Kali Linux",
+                            "filename": "kali.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

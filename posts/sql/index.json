@@ -1,0 +1,13 @@
+{
+    "categories": [
+        {
+            "name": "SQL",
+            "posts": [
+                {
+                    "title": "MySQL",
+                    "filename": "Mysql.md"
+                }
+            ]
+        }
+    ]
+}

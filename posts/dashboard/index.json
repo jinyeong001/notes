@@ -1,0 +1,29 @@
+{
+    "categories": [
+        {
+            "name": "DASHBOARD",
+            "posts": [
+                {
+                    "title": "Loganalyzer",
+                    "filename": "loganalyzer.md"
+                },
+                {
+                    "title": "ESXi",
+                    "filename": "esxi.md"
+                },
+                {
+                    "title": "Zabbix",
+                    "filename": "zabbix.md"
+                },
+                {
+                    "title": "PMM",
+                    "filename": "pmm.md"
+                },
+                {
+                    "title": "Wazuh",
+                    "filename": "wazuh.md"
+                }
+            ]
+        }
+    ]
+}

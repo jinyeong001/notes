@@ -1,0 +1,21 @@
+{
+    "categories": [
+        {
+            "name": "DEVOPS",
+            "posts": [
+                {
+                    "title": "Docker",
+                    "filename": "docker.md"
+                },
+                {
+                    "title": "Jenkins",
+                    "filename": "jenkins.md"
+                },
+                {
+                    "title": "Kubernetes",
+                    "filename": "kubernetes.md"
+                }
+            ]
+        }
+    ]
+}
