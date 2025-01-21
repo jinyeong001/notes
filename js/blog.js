@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         'APPLICATION': '🔐',
         'CLOUD': '☁️',
         'DATABASE': '💾',
-        'HACKING': '🔓',
+        'CTF': '🔥',
         '침해사고분석대응': '🚨',
         'NETWORK': '🌐',
         'SERVER': '🏗️',
@@ -166,7 +166,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             'APPLICATION',
             'CLOUD',
             'DATABASE',
-            'HACKING',
+            'CTF',
             '침해사고분석대응',
             'NETWORK',
             'SERVER',
@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         if (!postTitle) return;
 
         // 모든 카테고리를 순회하며 해당 포스트 찾기
-        const categories = ['APPLICATION', 'CLOUD', 'DATABASE', 'HACKING', '침해사고분석대응', 'NETWORK', 'SERVER', 'SYSTEM'];
+        const categories = ['APPLICATION', 'CLOUD', 'DATABASE', 'CTF', '침해사고분석대응', 'NETWORK', 'SERVER', 'SYSTEM'];
         
         for (const category of categories) {
             try {
